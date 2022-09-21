@@ -14569,7 +14569,7 @@
 <entry key="PopUp_RidePlacement_ConnectEntranceToPath" translation="Połącz wejście ze ścieżką"/>
 <entry key="PopUp_RidePlacement_PassCheckListHeader" translation="Aby mieć przepustkę priorytetową, musisz:"/>
 <entry key="PopUp_RidePlacement_PlaceEntrance" translation="Wejście do miejsca"/>
-<entry key="PopUp_RidePlacement_PlaceExit" translation="Zjazd z miejsca"/>
+<entry key="PopUp_RidePlacement_PlaceExit" translation="Wyjście z miejsca"/>
 <entry key="PopUp_RidePlacement_PlaceQueueMerge" translation="Miejsce wyjścia z przepustki priorytetowej"/>
 <entry key="PopUp_RidePlacement_PlaceQueueSplit" translation="Pierwsze wejście do miejsca"/>
 <entry key="PopUp_RidePlacement_StationListHeader" translation="Lista stacji"/>
@@ -27525,7 +27525,7 @@
 <entry key="Guest_Thought_Assessment_QueueTooLong_Child_02" translation="Ta kolejka wygląda na tak długą... - {reference}"/>
 <entry key="Guest_Thought_Assessment_QueueTooLong_Child_03" translation="{reference} ma ogromną kolejkę!"/>
 <entry key="Guest_Thought_Assessment_QueueTooLong_Child_04" translation="Wow! To jedna długa kolejka do {reference}"/>
-<entry key="Guest_Thought_Assessment_QueueTooLong_Common_01" translation="Nie czekam tak długo w kolejce {reference}"/>
+<entry key="Guest_Thought_Assessment_QueueTooLong_Common_01" translation="Nie czekam tak długo w kolejce do {reference}"/>
 <entry key="Guest_Thought_Assessment_QueueTooLong_Teen_01" translation="Nie będę tak długo czekać w kolejce do {reference}"/>
 <entry key="Guest_Thought_Assessment_QueueTooLong_Teen_02" translation="Kolejka dla {reference} wygląda teraz na ogromną"/>
 <entry key="Guest_Thought_Assessment_QueueTooLong_Teen_03" translation="Nie czekam tak długo na {reference}"/>
@@ -27709,7 +27709,7 @@
 <entry key="Guest_Thought_FluffInLitter_Child_01" translation="Nie jest miło wyrzucać śmieci"/>
 <entry key="Guest_Thought_FluffInLitter_Child_02" translation="Śmieci są paskudne!"/>
 <entry key="Guest_Thought_FluffInLitter_Child_03" translation="Ta ścieżka jest obrzydliwa!"/>
-<entry key="Guest_Thought_FluffInLitter_Common_01" translation="Ten śmieci jest obrzydliwy"/>
+<entry key="Guest_Thought_FluffInLitter_Common_01" translation="Te śmieci są obrzydliwe"/>
 <entry key="Guest_Thought_FluffInLitter_Common_02" translation="Wszędzie są śmieci"/>
 <entry key="Guest_Thought_FluffInLitter_Common_03" translation="Na ścieżce są śmieci"/>
 <entry key="Guest_Thought_FluffInLitter_Teen_01" translation="Wszędzie są śmieci!"/>
