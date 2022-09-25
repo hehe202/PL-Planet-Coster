@@ -30027,12 +30027,12 @@
 		<entry key="UserScenery_ShouldUpdateScreenshotTitle" translation="Update Screenshot"/>
 		<entry key="UserScenery_SteamWorkshopItemDesc" translation="Workshop Description"/>
 		<entry key="UserScenery_SteamWorkshopItemTitle" translation="Workshop Title"/>
-		<entry key="UserScenery_TitleCreateWorkshopItem" translation="Creating Workshop Item"/>
-		<entry key="UserScenery_TitleUpdateWorkshopItem" translation="Updating Workshop Item"/>
-		<entry key="UserScenery_UploadButtonText" translation="Upload to Steam"/>
-		<entry key="UserScenery_UploadButton_Offline" translation="You are offline!"/>
-		<entry key="UserScenery_UploadErrorTitle" translation="Error Uploading Workshop Item"/>
-		<entry key="UserScenery_WorkshopAgreement" translation="By submitting this item, you agree to the&#10;&lt;font color='#FF0000'&gt;Steam Workshop terms of service&lt;/font&gt;"/>
-		<entry key="Yes" translation="Yes"/>
+		<entry key="UserScenery_TitleCreateWorkshopItem" translation="Utwórz przedmiot warsztatu"/>
+		<entry key="UserScenery_TitleUpdateWorkshopItem" translation="Aktualizuj przedmiot z warsztatu/>
+		<entry key="UserScenery_UploadButtonText" translation="Prześlij na Steam"/>
+		<entry key="UserScenery_UploadButton_Offline" translation="Jesteś offline!"/>
+		<entry key="UserScenery_UploadErrorTitle" translation="Błąd przesyłania elementu do warsztatu"/>
+		<entry key="UserScenery_WorkshopAgreement" translation="Przesyłając ten przedmiot, zgadzasz się na&#10;&lt;font color='#FF0000'&gt;regulamin Steam Workshop&lt;/font&gt;"/>
+		<entry key="Yes" translation="Tak"/>
 	</translation>
 </localisation>
