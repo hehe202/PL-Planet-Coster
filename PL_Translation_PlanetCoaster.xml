@@ -3091,11 +3091,11 @@
 		<entry key="Train_Interactive_Shooting_Ride" translation="Szybkie dobywanie"/>
 		<!--C12_FrontEndMenu-->
 		<entry key="FrontEndMenu_City" translation="Miasto"/>
-		<entry key="FrontEndMenu_CityDescription" translation="Uruchom swój park z nieograniczonymi pieniędzmi i buduj obok tętniącego życiem miasta!"/>
+		<entry key="FrontEndMenu_CityDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i buduj obok tętniącego życiem miasta!"/>
 		<entry key="FrontEndMenu_CityScenario" translation="Miasto"/>
 		<entry key="FrontEndMenu_CityScenarioDescription" translation="Rozpocznij nowy niestandardowy scenariusz obok tętniącego życiem miasta!"/>
 		<entry key="FrontEndMenu_CitySimulation" translation="Miasto"/>
-		<entry key="FrontEndMenu_CitySimulationDescription" translation="Uruchom swój park z nieograniczonymi pieniędzmi i buduj obok tętniącego życiem miasta!"/>
+		<entry key="FrontEndMenu_CitySimulationDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i buduj obok tętniącego życiem miasta!"/>
 		<!--C12_Research-->
 		<entry key="Research_Hint_TrackedRide_Interactive_Shooting_Ride" translation="Strzelaj dla wyników"/>
 		<entry key="Research_Revealed_TrackedRide_Interactive_Shooting_Ride" translation="Szybkie dobywanie"/>
@@ -3551,20 +3551,20 @@
 		<entry key="Sequence_FR_TriStorm_ReverseSpin" translation="Odwrócone obroty"/>
 		<entry key="Sequence_FR_TriStorm_ReverseSpinLow" translation="Odwrócone obroty wolne"/>
 		<!--C1_FrontEndMenu-->
-		<entry key="FrontEndMenu_Arctic" translation="Arktyczny"/>
+		<entry key="FrontEndMenu_Arctic" translation="Arktyka"/>
 		<entry key="FrontEndMenu_ArcticDescription" translation="Załóż swój park z nieograniczoną ilością pieniędzy i buduj w zimowej krainie czarów!"/>
-		<entry key="FrontEndMenu_ArcticScenario" translation="Arktyczny"/>
+		<entry key="FrontEndMenu_ArcticScenario" translation="Arktyka"/>
 		<entry key="FrontEndMenu_ArcticScenarioDescription" translation="Rozpocznij nowy niestandardowy scenariusz w zimowej krainie czarów!"/>
-		<entry key="FrontEndMenu_ArcticSimulation" translation="Arktyczny"/>
+		<entry key="FrontEndMenu_ArcticSimulation" translation="Arktyka"/>
 		<entry key="FrontEndMenu_ArcticSimulationDescription" translation="Załóż swój park z ograniczoną ilością pieniędzy i zbuduj go w zimowej krainie czarów!"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic1" translation="Arktyczny 1"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic2" translation="Arktyczny 2"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic3" translation="Arktyczny 3"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic4" translation="Arktyczny 4"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic5" translation="Arktyczny 5"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic6" translation="Arktyczny 6"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic7" translation="Arktyczny 7"/>
-		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic8" translation="Arktyczny 8"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic1" translation="Arktyka 1"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic2" translation="Arktyka 2"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic3" translation="Arktyka 3"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic4" translation="Arktyka 4"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic5" translation="Arktyka 5"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic6" translation="Arktyka 6"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic7" translation="Arktyka 7"/>
+		<entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainarctic8" translation="Arktyka 8"/>
 		<!--C1_Research-->
 		<entry key="Research_Hint_FR_BDerby" translation="Zderzanie dookoła"/>
 		<entry key="Research_Hint_FR_Collider" translation="Rozbicie atomu"/>
@@ -7628,12 +7628,12 @@
 		<!--FrontEndMenu-->
 <entry key="FrontEndMenu_All" translation="Wszystkie"/>
 <entry key="FrontEndMenu_AllUploads" translation="Wyświetl wszystkie przesłane"/>
-<entry key="FrontEndMenu_Alpine" translation="Alpejski"/>
-<entry key="FrontEndMenu_AlpineDescription" translation="Uruchom swój park z nieograniczonymi pieniędzmi i buduj w zimnym i ostrym otoczeniu!"/>
-<entry key="FrontEndMenu_AlpineScenario" translation="Alpejski"/>
-<entry key="FrontEndMenu_AlpineScenarioDescription" translation="Rozpocznij nowy scenariusz niestandardowy w zimnym i ostrym środowisku!"/>
-<entry key="FrontEndMenu_AlpineSimulation" translation="Alpejski"/>
-<entry key="FrontEndMenu_AlpineSimulationDescription" translation="Uruchom swój park z ograniczonymi pieniędzmi i buduj w zimnym i ostrym otoczeniu!"/>
+<entry key="FrontEndMenu_Alpine" translation="Alpy"/>
+<entry key="FrontEndMenu_AlpineDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i buduj w zimnym i ostrym klimacie!"/>
+<entry key="FrontEndMenu_AlpineScenario" translation="Alpy"/>
+<entry key="FrontEndMenu_AlpineScenarioDescription" translation="Rozpocznij nowy niestandardowy scenariusz w zimnym i ostrym klimacie!"/>
+<entry key="FrontEndMenu_AlpineSimulation" translation="Alpy"/>
+<entry key="FrontEndMenu_AlpineSimulationDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i buduj w zimnym i ostrym klimacie!"/>
 <entry key="FrontEndMenu_AlterChallenge" translation="Załaduj wyzwanie"/>
 <entry key="FrontEndMenu_AlterChallengeCustom" translation="Wyzwanie ładowania - środowisko niestandardowe"/>
 <entry key="FrontEndMenu_AlterSandbox" translation="Załaduj piaskownicę"/>
@@ -7668,7 +7668,7 @@
 <entry key="FrontEndMenu_CareerPreviousTooltips" translation="Wczytaj poprzednie zapisane parki"/>
 <entry key="FrontEndMenu_CareerResume" translation="Wznów"/>
 <entry key="FrontEndMenu_CareerSets" translation="Zestawy"/>
-<entry key="FrontEndMenu_CareerStartNew" translation="Rozpocznij nowy scenariusz"/>
+<entry key="FrontEndMenu_CareerStartNew" translation="Rozpocznij"/>
 <entry key="FrontEndMenu_CareerTotal" translation="/{Value:int}"/>
 <entry key="FrontEndMenu_Celebrity" translation="Polecany twórca"/>
 <entry key="FrontEndMenu_ChangePicture" translation="Zmień obraz"/>
@@ -7682,7 +7682,7 @@
 <entry key="FrontEndMenu_CustomAmbienceHeader" translation="Niestandardowa atmosfera"/>
 <entry key="FrontEndMenu_CustomBiomeDescription" translation="Wybierz teren, na którym chcesz oprzeć to niestandardowe środowisko."/>
 <entry key="FrontEndMenu_CustomBiomeHeader" translation="Środowisko startowe"/>
-<entry key="FrontEndMenu_CustomDescription" translation="Uruchom swój park z nieograniczonymi pieniędzmi i buduj w niestandardowym środowisku!"/>
+<entry key="FrontEndMenu_CustomDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i buduj w niestandardowym środowisku!"/>
 <entry key="FrontEndMenu_CustomPaint_ConfirmCancel" translation="Anuluj"/>
 <entry key="FrontEndMenu_CustomPaint_ConfirmOK" translation="OK"/>
 <entry key="FrontEndMenu_CustomPaint_Title" translation="Wybór farb"/>
@@ -7690,26 +7690,26 @@
 <entry key="FrontEndMenu_CustomScenario" translation="Niestandardowy"/>
 <entry key="FrontEndMenu_CustomScenarioDescription" translation="Rozpocznij nowy scenariusz niestandardowy w niestandardowym środowisku!"/>
 <entry key="FrontEndMenu_CustomSimulation" translation="Niestandardowy"/>
-<entry key="FrontEndMenu_CustomSimulationDescription" translation="Uruchom swój park z ograniczonymi pieniędzmi i buduj w niestandardowym środowisku"/>
+<entry key="FrontEndMenu_CustomSimulationDescription" translation="Stwórz swój park z ograniczonymi pieniędzmi i buduj w niestandardowym środowisku"/>
 <entry key="FrontEndMenu_CustomTerrainPaintFilter" translation="Filtr"/>
 <entry key="FrontEndMenu_Custom_SwapPaint" translation="Zamień styl malowania"/>
-<entry key="FrontEndMenu_Deciduous" translation="Liściaste"/>
-<entry key="FrontEndMenu_DeciduousDescription" translation="Uruchom swój park z nieograniczonymi pieniędzmi i zbuduj wymarzony park w tym bujnym środowisku!"/>
-<entry key="FrontEndMenu_DeciduousScenario" translation="Liściaste"/>
+<entry key="FrontEndMenu_Deciduous" translation="Las liściasty"/>
+<entry key="FrontEndMenu_DeciduousDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i zbuduj wymarzony park w tym bujnym środowisku!"/>
+<entry key="FrontEndMenu_DeciduousScenario" translation="Las liściasty"/>
 <entry key="FrontEndMenu_DeciduousScenarioDescription" translation="Rozpocznij nowy niestandardowy scenariusz w tym bujnym środowisku!"/>
-<entry key="FrontEndMenu_DeciduousSimulation" translation="Liściaste"/>
-<entry key="FrontEndMenu_DeciduousSimulationDescription" translation="Uruchom swój park z ograniczonymi pieniędzmi i zbuduj wymarzony park w tym bujnym środowisku!"/>
+<entry key="FrontEndMenu_DeciduousSimulation" translation="Las liściasty"/>
+<entry key="FrontEndMenu_DeciduousSimulationDescription" translation="Stwórz swój park z ograniczonymi pieniędzmi i zbuduj wymarzony park w tym bujnym środowisku!"/>
 <entry key="FrontEndMenu_DefaultChallengeParkName" translation="Park wyzwań"/>
 <entry key="FrontEndMenu_DefaultSandboxParkName" translation="Park piaskownicy"/>
 <entry key="FrontEndMenu_DefaultScenarioParkDescription" translation="Scenariusz stworzony przez gracza"/>
 <entry key="FrontEndMenu_DefaultScenarioParkName" translation="Niestandardowy scenariusz"/>
 <entry key="FrontEndMenu_DeleteButton" translation="Usuń"/>
 <entry key="FrontEndMenu_Desert" translation="Pustynia"/>
-<entry key="FrontEndMenu_DesertDescription" translation="Uruchom swój park z nieograniczonymi pieniędzmi i buduj na piaszczystej przestrzeni!"/>
+<entry key="FrontEndMenu_DesertDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i buduj na piaszczystej przestrzeni!"/>
 <entry key="FrontEndMenu_DesertScenario" translation="Pustynia"/>
 <entry key="FrontEndMenu_DesertScenarioDescription" translation="Rozpocznij nowy niestandardowy scenariusz na piaszczystej przestrzeni!"/>
 <entry key="FrontEndMenu_DesertSimulation" translation="Pustynia"/>
-<entry key="FrontEndMenu_DesertSimulationDescription" translation="Uruchom swój park z ograniczonymi pieniędzmi i buduj na piaszczystej przestrzeni!"/>
+<entry key="FrontEndMenu_DesertSimulationDescription" translation="Stwórz swój park z ograniczonymi pieniędzmi i buduj na piaszczystej przestrzeni!"/>
 <entry key="FrontEndMenu_Details" translation="Szczegóły"/>
 <entry key="FrontEndMenu_Difficulty" translation="Trudność"/>
 <entry key="FrontEndMenu_DifficultyEasy" translation="Łatwy"/>
@@ -7747,12 +7747,12 @@
 <entry key="FrontEndMenu_GlobeFilter_All" translation="Wszystkie"/>
 <entry key="FrontEndMenu_GlobeFilter_Celebs" translation="Wyróżnieni twórcy"/>
 <entry key="FrontEndMenu_GlobeFilter_Friends" translation="Znajomi"/>
-<entry key="FrontEndMenu_Grassland" translation="Użytki zielone"/>
-<entry key="FrontEndMenu_GrasslandDescription" translation="Załóż swój park z nieograniczonymi pieniędzmi i buduj na tych bogatych pastwiskach!"/>
-<entry key="FrontEndMenu_GrasslandScenario" translation="Użytki zielone"/>
+<entry key="FrontEndMenu_Grassland" translation="Zielone pastwiska"/>
+<entry key="FrontEndMenu_GrasslandDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i buduj na tych bogatych pastwiskach!"/>
+<entry key="FrontEndMenu_GrasslandScenario" translation="Zielone pastwiska"/>
 <entry key="FrontEndMenu_GrasslandScenarioDescription" translation="Rozpocznij nowy niestandardowy scenariusz na tych bogatych pastwiskach!"/>
-<entry key="FrontEndMenu_GrasslandSimulation" translation="Użytki zielone"/>
-<entry key="FrontEndMenu_GrasslandSimulationDescription" translation="Uruchom swój park z ograniczonymi pieniędzmi i buduj na tych bogatych pastwiskach!"/>
+<entry key="FrontEndMenu_GrasslandSimulation" translation="Zielone pastwiska"/>
+<entry key="FrontEndMenu_GrasslandSimulationDescription" translation="Stwórz swój park z ograniczonymi pieniędzmi i buduj na tych bogatych pastwiskach!"/>
 <entry key="FrontEndMenu_GroupEditor_InfoLabel" translation="Wyślij grupę do parków wszechświata Planet Coaster!"/>
 <entry key="FrontEndMenu_GroupEditor_InfoTitle" translation="Utwórz swój bilet grupowy VIP!"/>
 <entry key="FrontEndMenu_HQPlacement_InfoTitle" translation="Umieść swoją kwaterę główną awatara!"/>
@@ -7827,7 +7827,7 @@
 <entry key="FrontEndMenu_SortByTimePlayedAscending" translation="Najczęściej odtwarzane"/>
 <entry key="FrontEndMenu_SortByTimePlayedDescending" translation="Najmniej grane"/>
 <entry key="FrontEndMenu_StaffEditor_InfoTitle" translation="Utwórz przepustkę personelu VIP!"/>
-<entry key="FrontEndMenu_StartNew" translation="Rozpocznij nowy"/>
+<entry key="FrontEndMenu_StartNew" translation="Rozpocznij"/>
 <entry key="FrontEndMenu_Story" translation="Historia"/>
 <entry key="FrontEndMenu_Subscribe" translation="Subskrybuj"/>
 <entry key="FrontEndMenu_Subscribers" translation="Abonenci"/>
@@ -7853,14 +7853,14 @@
 <entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainalpine6" translation="Alpejski 6"/>
 <entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainalpine7" translation="Alpejski 7"/>
 <entry key="FrontEndMenu_TerrainPaintTitle_iconTerrainalpine8" translation="Alpejski 8"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous1" translation="Liściaste 1"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous2" translation="Liściaste 2"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous3" translation="Liściaste 3"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous4" translation="Liściaste 4"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous5" translation="Liściaste 5"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous6" translation="Liściaste 6"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous7" translation="Liściaste 7"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous8" translation="Liściaste 8"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous1" translation="Las liściasty 1"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous2" translation="Las liściasty 2"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous3" translation="Las liściasty 3"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous4" translation="Las liściasty 4"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous5" translation="Las liściasty 5"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous6" translation="Las liściasty 6"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous7" translation="Las liściasty 7"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindeciduous8" translation="Las liściasty 8"/>
 <entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindesert1" translation="Pustynia 1"/>
 <entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindesert2" translation="Pustynia 2"/>
 <entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindesert3" translation="Pustynia 3"/>
@@ -7869,14 +7869,14 @@
 <entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindesert6" translation="Pustynia 6"/>
 <entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindesert7" translation="Pustynia 7"/>
 <entry key="FrontEndMenu_TerrainPaintTitle_iconTerraindesert8" translation="Pustynia 8"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland1" translation="Użytki zielone 1"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland2" translation="Użytki zielone 2"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland3" translation="Użytki zielone 3"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland4" translation="Użytki zielone 4"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland5" translation="Użytki zielone 5"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland6" translation="Użytki zielone 6"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland7" translation="Użytki zielone 7"/>
-<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland8" translation="Użytki zielone 8"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland1" translation="Zielone pastwiska 1"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland2" translation="Zielone pastwiska 2"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland3" translation="Zielone pastwiska 3"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland4" translation="Zielone pastwiska 4"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland5" translation="Zielone pastwiska 5"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland6" translation="Zielone pastwiska 6"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland7" translation="Zielone pastwiska 7"/>
+<entry key="FrontEndMenu_TerrainPaintTitle_iconTerraingrassland8" translation="Zielone pastwiska 8"/>
 <entry key="FrontEndMenu_TerrainPaintTooltip_Detail" translation="Twój wygenerowany teren użyje tej tekstury do stworzenia szczegółów."/>
 <entry key="FrontEndMenu_TerrainPaintTooltip_Ground" translation="Twój wygenerowany teren użyje tej tekstury na płaskim terenie i podczas korzystania z automatycznego malowania."/>
 <entry key="FrontEndMenu_TerrainPaintTooltip_Steep" translation="Twój wygenerowany teren użyje tej tekstury na stromym terenie i podczas korzystania z automatycznego malowania."/>
@@ -7886,12 +7886,12 @@
 <entry key="FrontEndMenu_ThemeMakerUpload" translation="Utwórz"/>
 <entry key="FrontEndMenu_Tooltip_Offline" translation="Jesteś offline!"/>
 <entry key="FrontEndMenu_TrendingUploads" translation="Przesyłanie trendów"/>
-<entry key="FrontEndMenu_Tropical" translation="Tropikalny"/>
-<entry key="FrontEndMenu_TropicalDescription" translation="Uruchom swój park z nieograniczonymi pieniędzmi i zbuduj wymarzone miejsce ucieczki!"/>
-<entry key="FrontEndMenu_TropicalScenario" translation="Tropikalny"/>
-<entry key="FrontEndMenu_TropicalScenarioDescription" translation="Rozpocznij nowy scenariusz w wymarzonym miejscu ucieczki!"/>
-<entry key="FrontEndMenu_TropicalSimulation" translation="Tropikalny"/>
-<entry key="FrontEndMenu_TropicalSimulationDescription" translation="Uruchom swój park z ograniczonymi pieniędzmi i zbuduj wymarzone miejsce ucieczki!"/>
+<entry key="FrontEndMenu_Tropical" translation="Tropiki"/>
+<entry key="FrontEndMenu_TropicalDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i zbuduj wymarzone miejsce relaksu!"/>
+<entry key="FrontEndMenu_TropicalScenario" translation="Tropiki"/>
+<entry key="FrontEndMenu_TropicalScenarioDescription" translation="Rozpocznij nowy scenariusz w wymarzonym miejscu relaksu!"/>
+<entry key="FrontEndMenu_TropicalSimulation" translation="Tropiki"/>
+<entry key="FrontEndMenu_TropicalSimulationDescription" translation="Stwórz swój park z nieograniczonymi pieniędzmi i zbuduj wymarzone miejsce relaksu!"/>
 <entry key="FrontEndMenu_Tutorial" translation="Samouczki wideo"/>
 <entry key="FrontEndMenu_TutorialDescription" translation="Wkrótce!"/>
 <entry key="FrontEndMenu_Unfollow" translation="Przestań obserwować"/>
@@ -7954,8 +7954,8 @@
 <entry key="COST_PER_DAY" translation="{Value:currency} dziennie"/>
 <entry key="COST_PER_MONTH" translation="{Value:currency} miesięcznie"/>
 		<entry key="COST_TARGET" translation="{Value:currency}/{Target:currency}"/>
-<entry key="Cancel" translation="Anulować"/>
-<entry key="Closed" translation="Zamknięte"/>
+<entry key="Cancel" translation="Anuluj"/>
+<entry key="Closed" translation="Zamknij"/>
 		<entry key="ColorPicker_Apply" translation="OK"/>
 <entry key="ColorPicker_RecentLabel" translation="Ostatnie"/>
 <entry key="ColorPicker_Reset" translation="Resetuj"/>
@@ -30027,12 +30027,12 @@
 		<entry key="UserScenery_ShouldUpdateScreenshotTitle" translation="Update Screenshot"/>
 		<entry key="UserScenery_SteamWorkshopItemDesc" translation="Workshop Description"/>
 		<entry key="UserScenery_SteamWorkshopItemTitle" translation="Workshop Title"/>
-		<entry key="UserScenery_TitleCreateWorkshopItem" translation="Creating Workshop Item"/>
-		<entry key="UserScenery_TitleUpdateWorkshopItem" translation="Updating Workshop Item"/>
-		<entry key="UserScenery_UploadButtonText" translation="Upload to Steam"/>
-		<entry key="UserScenery_UploadButton_Offline" translation="You are offline!"/>
-		<entry key="UserScenery_UploadErrorTitle" translation="Error Uploading Workshop Item"/>
-		<entry key="UserScenery_WorkshopAgreement" translation="By submitting this item, you agree to the&#10;&lt;font color='#FF0000'&gt;Steam Workshop terms of service&lt;/font&gt;"/>
-		<entry key="Yes" translation="Yes"/>
+		<entry key="UserScenery_TitleCreateWorkshopItem" translation="Utwórz przedmiot warsztatu"/>
+		<entry key="UserScenery_TitleUpdateWorkshopItem" translation="Aktualizuj przedmiot z warsztatu/>
+		<entry key="UserScenery_UploadButtonText" translation="Prześlij na Steam"/>
+		<entry key="UserScenery_UploadButton_Offline" translation="Jesteś offline!"/>
+		<entry key="UserScenery_UploadErrorTitle" translation="Błąd przesyłania elementu do warsztatu"/>
+		<entry key="UserScenery_WorkshopAgreement" translation="Przesyłając ten przedmiot, zgadzasz się na&#10;&lt;font color='#FF0000'&gt;regulamin Steam Workshop&lt;/font&gt;"/>
+		<entry key="Yes" translation="Tak"/>
 	</translation>
 </localisation>
