@@ -37,7 +37,7 @@ Ostateczny rezultat poprawnego działania tłumaczenia powinien wyglądać nast�
 
 ## Jak mogę pobrać tłumaczenie z tej dziwnej strony?
 
-- Pierwsza metoda polega na naciśnięciu zielonego przycisku w prawym górnym rogu „Klonuj lub Pobierz” i wybraniu „Pobierz Zip”, spowoduje to pobranie archiwum zip zawierającego plik .xml tłumaczenia, które musisz rozpakować i wstawić do folderu jak wyjaśniono powyżej.
+- Pierwsza metoda polega na naciśnięciu zielonego przycisku w prawym górnym rogu „Code” i wybraniu „Download Zip”, spowoduje to pobranie archiwum zip zawierającego plik .xml tłumaczenia, które musisz rozpakować i wstawić do folderu jak wyjaśniono powyżej.
 
 
 ## Dlaczego tłumaczenie nie jest kompletne/nieaktualne?
