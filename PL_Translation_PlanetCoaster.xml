@@ -14375,7 +14375,7 @@
 <entry key="HUD_RideQuality" translation="Ocena jazdy"/>
 <entry key="HUD_Saving" translation="Zapisywanie..."/>
 <entry key="HUD_SceneryQuality" translation="Ocena scenerii"/>
-<entry key="HUD_SettingsMenu_CommunityTranslation" translation="Tłumaczenie społeczności przez: {Name} forum: grajpopolsku.pl"/>
+<entry key="HUD_SettingsMenu_CommunityTranslation" translation="Tłumaczenie społeczności przez: {Name}&#10;forum: grajpopolsku.pl"/>
 <entry key="HUD_SettingsMenu_SettingsToolTip" translation="Opcje"/>
 		<entry key="HUD_SettingsMenu_Version" translation="Wersja {Version}&#10;Tłumaczenie: heHłacz, GramBezMonitora" />
 <entry key="HUD_ShopAndFacilityProfits" translation="Sklep i zyski obiektu"/>
