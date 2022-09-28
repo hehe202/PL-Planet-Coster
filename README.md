@@ -23,7 +23,7 @@ Tłumaczenie **nie działa** z nieoficjalnymi kopiami, na MacOS lub Konsoli.
 1. Otwórz „Uruchom” (naciskając jednocześnie klawisz Windows + R na klawiaturze lub szukając go w menu Start);
 2. Wpisz ścieżkę `%localappdata%\Frontier Developments\Planet Coaster\Translations`;
 ![folder screenshot](ReadmeMedia/folder.png)
-3. Naciśnięcie klawisza enter powinno otworzyć folder, w którym należy umieścić plik .XML o nazwie * PL_Translation_PlanetCoaster.xml *. **(musisz co najmniej raz uruchomić grę, aby znaleźć ten folder)**;
+3. Naciśnięcie klawisza enter powinno otworzyć folder, w którym należy umieścić plik .XML o nazwie `PL_Translation_PlanetCoaster.xml`. **(musisz co najmniej raz uruchomić grę, aby znaleźć ten folder)**;
 4. Otwórz Steam, przejdź do swojej biblioteki i kliknij prawym przyciskiem myszy na Planet Coaster. Teraz kliknij Właściwości, a następnie poszukaj pola poniżej „Opcje uruchamiania”;
 5. W polu wpisz: `-translation PL_Translation_PlanetCoaster.xml`, a następnie naciśnij Ok;
 6. Gotowe, powinieneś mieć teraz grę w języku Polskim, jeśli masz problemy, skontaktuj się z nami na forum [grajpopolsku.pl](https://grajpopolsku.pl/forum/viewtopic.php?t=3457).
