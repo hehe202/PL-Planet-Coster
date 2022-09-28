@@ -8,7 +8,7 @@
 - [Instrukcje instalacji](#instrukcje-instalacji)
 - [Oczekiwany wynik końcowy](#oczekiwany-końcowy-wynik)
 - [Jak mogę pobrać tłumaczenie z tej dziwnej strony?](#Jak-mogę-pobrać-tłumaczenie-z-tej-dziwnej-strony)
-- [Dlaczego tłumaczenie nie jest kompletne / nieaktualne?](#Dlaczego-tłumaczenie-nie-jest-kompletne--nie-jest-kompletne/nieaktualne)
+- [Dlaczego tłumaczenie nie jest kompletne/nieaktualne?](#Dlaczego-tłumaczenie-nie-jest-kompletne--nie-jest-kompletne/nieaktualne)
 - [Znalazłem kilka błędów w tłumaczeniu / Chcę Ci pomóc!](#-Znalazłem-kilka-błędów-w-tłumaczeniu--Chcę-Ci-pomóc)
 - [Główni autorzy](#Główni-autorzy)
 
