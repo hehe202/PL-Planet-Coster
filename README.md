@@ -55,7 +55,7 @@ Nie ma problemu, celowo umieściliśmy go na GitHubie, tutaj każdy może wnieś
 - Utwórz „Issue” na wypadek, gdybyś chciał zgłosić błędy w tłumaczeniu - [tutaj](https://github.com/hehe202/PlanetCoster/issues).
 - Utwórz „Pull request” na wypadek, gdybyś chciał aktywnie przyczynić się do tłumaczenia - [tutaj](https://github.com/hehe202/PlanetCoster/pulls).
 
-** Aby utworzyć „Pull request” ** musisz najpierw wykonać ** „fork” ** (prawy górny przycisk). Po zakończeniu forka wprowadź wszystkie potrzebne zmiany w ** swoim ** repozytorium, a na koniec wyślij nam żądanie Pull (Nowe żądanie Pull> porównaj między forkami).
+**Aby utworzyć „Pull request”** musisz najpierw wykonać **„fork”** (prawy górny przycisk). Po zakończeniu forka wprowadź wszystkie potrzebne zmiany w **swoim** repozytorium, a na koniec wyślij nam Pull request (New Pull request > compare across forks).
 Możesz sprawdzić plik tłumaczenia pod kątem błędów za pomocą [tego oprogramowania](http://cdn.gulpeyrex.com/communitytranslations/tools/communitytranslationverifier/publish.htm) (Made by Frontier).
 
 
