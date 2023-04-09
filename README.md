@@ -28,6 +28,8 @@ Tłumaczenie **nie działa** z nieoficjalnymi kopiami, na MacOS lub Konsoli.
 5. W polu wpisz: `-translation PL_Translation_PlanetCoaster.xml`, a następnie naciśnij Ok;
 6. Gotowe, powinieneś mieć teraz grę w języku Polskim, jeśli masz problemy, skontaktuj się z nami na forum [grajpopolsku.pl](https://grajpopolsku.pl/forum/viewtopic.php?t=3457).
 
+MAC OS scieszka instalacji: "~/Library/Application Support/Planet Coaster/Frontier Developments/Planet Coaster/Translations" 
+
 (**PS:** Pamiętaj, że pliki trafiają do folderu `...\Planet Coaster\Translations`, nie twórz podfolderów w "Translations" z plikami w środku lub tłumaczenie nie będzie działać.)
 
 ## Oczekiwany wynik końcowy
